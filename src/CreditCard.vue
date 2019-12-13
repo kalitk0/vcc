@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="credit-card-form">
-                <div class="field">
+                <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                     <label class="vs-input--label" for="name">{{ trans.name.label }}</label>
                     <div class="vs-con-input">
                     <input class="vs-inputx vs-input--input normal" maxlength="20"
@@ -30,7 +30,7 @@
                         @focus="flipped = false">
                     </div>
                 </div>
-                <div class="field">
+                <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                     <label class="vs-input--label" for="card-number">{{ trans.card.label}}</label>
                     <div class="vs-con-input">
                     <input class="vs-inputx vs-input--input normal" type="text"
@@ -47,7 +47,7 @@
                     </svg>
                 </div>
                 <div class="field-group">
-                    <div class="field">
+                    <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                         <label class="vs-input--label" for="expirationdate">{{ trans.expiration.label}} (mm/{{isTwoDigitsYear ? 'yy' : 'yyyy'}})</label>
                         <div class="vs-con-input">
                         <input class="vs-inputx vs-input--input normal" type="text"
@@ -60,7 +60,7 @@
                             @focus="flipped = false">
                         </div>
                     </div>
-                    <div class="field">
+                    <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                         <label class="vs-input--label" for="securitycode">{{ trans.security.label}}</label>
                         <div class="vs-con-input">
                         <input class="vs-inputx vs-input--input normal" type="text"
