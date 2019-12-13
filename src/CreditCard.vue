@@ -19,18 +19,21 @@
             </div>
             <div class="credit-card-form">
                 <div class="field">
-                    <label for="name">{{ trans.name.label }}</label>
-                    <input maxlength="20"
+                    <label class="vs-input--label" for="name">{{ trans.name.label }}</label>
+                    <div class="vs-con-input">
+                    <input class="vs-inputx vs-input--input normal" maxlength="20"
                         name="name"
                         id="name"
                         type="text"
                         :placeholder="trans.name.placeholder"
                         v-model="form.name"
                         @focus="flipped = false">
+                    </div>
                 </div>
                 <div class="field">
-                    <label for="card-number">{{ trans.card.label}}</label>
-                    <input type="text"
+                    <label class="vs-input--label" for="card-number">{{ trans.card.label}}</label>
+                    <div class="vs-con-input">
+                    <input class="vs-inputx vs-input--input normal" type="text"
                         name="card_number"
                         id="card-number"
                         ref="cardNumber"
@@ -38,14 +41,16 @@
                         inputmode="numeric"
                         :placeholder="trans.card.placeholder"
                         @focus="flipped = false">
+                    </div>
                     <svg class="ccicon" width="750" height="471" viewBox="0 0 750 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <component :is="cardIcon"/>
                     </svg>
                 </div>
                 <div class="field-group">
                     <div class="field">
-                        <label for="expirationdate">{{ trans.expiration.label}} (mm/{{isTwoDigitsYear ? 'yy' : 'yyyy'}})</label>
-                        <input type="text"
+                        <label class="vs-input--label" for="expirationdate">{{ trans.expiration.label}} (mm/{{isTwoDigitsYear ? 'yy' : 'yyyy'}})</label>
+                        <div class="vs-con-input">
+                        <input class="vs-inputx vs-input--input normal" type="text"
                             name="expiration_date"
                             id="expirationdate"
                             pattern="[0-9\/]*"
@@ -53,10 +58,12 @@
                             :placeholder="isTwoDigitsYear ? 'MM/YY' : 'MM/YYYY'"
                             inputmode="numeric"
                             @focus="flipped = false">
+                        </div>
                     </div>
                     <div class="field">
-                        <label for="securitycode">{{ trans.security.label}}</label>
-                        <input type="text"
+                        <label class="vs-input--label" for="securitycode">{{ trans.security.label}}</label>
+                        <div class="vs-con-input">
+                        <input class="vs-inputx vs-input--input normal" type="text"
                             name="security_code"
                             id="securitycode"
                             ref="security"
@@ -64,6 +71,7 @@
                             :placeholder="trans.security.placeholder"
                             inputmode="numeric"
                             @focus="flipped = true">
+                        </div>
                     </div>
                 </div>
             </div>
