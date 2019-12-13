@@ -21,7 +21,7 @@
                 <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                     <label class="vs-input--label" for="name">{{ trans.name.label }}</label>
                     <div class="vs-con-input">
-                    <input class="vs-inputx vs-input--input normal" maxlength="20"
+                    <input class="vs-inputx vs-input--input normal" maxlength="20" v-validate="'required'"
                         name="name"
                         id="name"
                         type="text"
@@ -33,7 +33,7 @@
                 <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                     <label class="vs-input--label" for="card-number">{{ trans.card.label}}</label>
                     <div class="vs-con-input">
-                    <input class="vs-inputx vs-input--input normal" type="text"
+                    <input class="vs-inputx vs-input--input normal" type="text" v-validate="'required'"
                         name="card_number"
                         id="card-number"
                         ref="cardNumber"
@@ -50,7 +50,7 @@
                     <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                         <label class="vs-input--label" for="expirationdate">{{ trans.expiration.label}} (mm/{{isTwoDigitsYear ? 'yy' : 'yyyy'}})</label>
                         <div class="vs-con-input">
-                        <input class="vs-inputx vs-input--input normal" type="text"
+                        <input class="vs-inputx vs-input--input normal" type="text" v-validate="'required'"
                             name="expiration_date"
                             id="expirationdate"
                             pattern="[0-9\/]*"
@@ -63,7 +63,7 @@
                     <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
                         <label class="vs-input--label" for="securitycode">{{ trans.security.label}}</label>
                         <div class="vs-con-input">
-                        <input class="vs-inputx vs-input--input normal" type="text"
+                        <input class="vs-inputx vs-input--input normal" type="text" v-validate="'required'"
                             name="security_code"
                             id="securitycode"
                             ref="security"

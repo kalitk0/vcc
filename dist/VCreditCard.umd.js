@@ -4297,21 +4297,21 @@ return /******/ (function(modules) { // webpackBootstrap
 
 /***/ }),
 
-/***/ "26d7":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "3a2f":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("26d7");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("8e4b");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
 /* unused harmony reexport * */
- /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+ /* unused harmony default export */ var _unused_webpack_default_export = (_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_index_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_sass_loader_lib_loader_js_ref_8_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_CreditCard_vue_vue_type_style_index_0_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "8e4b":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -4428,12 +4428,12 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6a83156a-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/CreditCard.vue?vue&type=template&id=46dc1e49&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"vue-credit-card",class:_vm.className},[_c('div',{staticClass:"card-form-and-image",style:({flexDirection: _vm.direction})},[(!_vm.noCard)?_c('div',{staticClass:"credit-card-image"},[_c('div',{staticClass:"creditcard",class:{flipped: _vm.flipped},on:{"click":function($event){_vm.flipped = !_vm.flipped}}},[_c('Front',{attrs:{"cardNumber":_vm.form.cardNumber,"expiration":_vm.form.expiration,"name":_vm.form.name,"isTwoDigitsYear":_vm.isTwoDigitsYear,"color":_vm.color}},[_c('div',{attrs:{"slot":"card-icon","id":"ccsingle"},slot:"card-icon"},[_c(_vm.cardInnerIcon,{tag:"component"})],1)]),_c('Back',{attrs:{"nameBack":_vm.form.name,"security":_vm.form.security,"color":_vm.color}})],1)]):_vm._e(),_c('div',{staticClass:"credit-card-form"},[_c('div',{staticClass:"field"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"name"}},[_vm._v(_vm._s(_vm.trans.name.label))]),_c('div',{staticClass:"vs-con-input"},[_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.form.name),expression:"form.name"}],staticClass:"vs-inputx vs-input--input normal",attrs:{"maxlength":"20","name":"name","id":"name","type":"text","placeholder":_vm.trans.name.placeholder},domProps:{"value":(_vm.form.name)},on:{"focus":function($event){_vm.flipped = false},"input":function($event){if($event.target.composing){ return; }_vm.$set(_vm.form, "name", $event.target.value)}}})])]),_c('div',{staticClass:"field"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"card-number"}},[_vm._v(_vm._s(_vm.trans.card.label))]),_c('div',{staticClass:"vs-con-input"},[_c('input',{ref:"cardNumber",staticClass:"vs-inputx vs-input--input normal",attrs:{"type":"text","name":"card_number","id":"card-number","pattern":"[0-9 ]*","inputmode":"numeric","placeholder":_vm.trans.card.placeholder},on:{"focus":function($event){_vm.flipped = false}}})]),_c('svg',{staticClass:"ccicon",attrs:{"width":"750","height":"471","viewBox":"0 0 750 471","version":"1.1","xmlns":"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"}},[_c(_vm.cardIcon,{tag:"component"})],1)]),_c('div',{staticClass:"field-group"},[_c('div',{staticClass:"field"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"expirationdate"}},[_vm._v(_vm._s(_vm.trans.expiration.label)+" (mm/"+_vm._s(_vm.isTwoDigitsYear ? 'yy' : 'yyyy')+")")]),_c('div',{staticClass:"vs-con-input"},[_c('input',{ref:"expiration",staticClass:"vs-inputx vs-input--input normal",attrs:{"type":"text","name":"expiration_date","id":"expirationdate","pattern":"[0-9\\/]*","placeholder":_vm.isTwoDigitsYear ? 'MM/YY' : 'MM/YYYY',"inputmode":"numeric"},on:{"focus":function($event){_vm.flipped = false}}})])]),_c('div',{staticClass:"field"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"securitycode"}},[_vm._v(_vm._s(_vm.trans.security.label))]),_c('div',{staticClass:"vs-con-input"},[_c('input',{ref:"security",staticClass:"vs-inputx vs-input--input normal",attrs:{"type":"text","name":"security_code","id":"securitycode","pattern":"[0-9]*","placeholder":_vm.trans.security.placeholder,"inputmode":"numeric"},on:{"focus":function($event){_vm.flipped = true}}})])])])])])])}
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6a83156a-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/CreditCard.vue?vue&type=template&id=8101a452&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"vue-credit-card",class:_vm.className},[_c('div',{staticClass:"card-form-and-image",style:({flexDirection: _vm.direction})},[(!_vm.noCard)?_c('div',{staticClass:"credit-card-image"},[_c('div',{staticClass:"creditcard",class:{flipped: _vm.flipped},on:{"click":function($event){_vm.flipped = !_vm.flipped}}},[_c('Front',{attrs:{"cardNumber":_vm.form.cardNumber,"expiration":_vm.form.expiration,"name":_vm.form.name,"isTwoDigitsYear":_vm.isTwoDigitsYear,"color":_vm.color}},[_c('div',{attrs:{"slot":"card-icon","id":"ccsingle"},slot:"card-icon"},[_c(_vm.cardInnerIcon,{tag:"component"})],1)]),_c('Back',{attrs:{"nameBack":_vm.form.name,"security":_vm.form.security,"color":_vm.color}})],1)]):_vm._e(),_c('div',{staticClass:"credit-card-form"},[_c('div',{staticClass:"field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"name"}},[_vm._v(_vm._s(_vm.trans.name.label))]),_c('div',{staticClass:"vs-con-input"},[_c('input',{directives:[{name:"validate",rawName:"v-validate",value:('required'),expression:"'required'"},{name:"model",rawName:"v-model",value:(_vm.form.name),expression:"form.name"}],staticClass:"vs-inputx vs-input--input normal",attrs:{"maxlength":"20","name":"name","id":"name","type":"text","placeholder":_vm.trans.name.placeholder},domProps:{"value":(_vm.form.name)},on:{"focus":function($event){_vm.flipped = false},"input":function($event){if($event.target.composing){ return; }_vm.$set(_vm.form, "name", $event.target.value)}}})])]),_c('div',{staticClass:"field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"card-number"}},[_vm._v(_vm._s(_vm.trans.card.label))]),_c('div',{staticClass:"vs-con-input"},[_c('input',{directives:[{name:"validate",rawName:"v-validate",value:('required'),expression:"'required'"}],ref:"cardNumber",staticClass:"vs-inputx vs-input--input normal",attrs:{"type":"text","name":"card_number","id":"card-number","pattern":"[0-9 ]*","inputmode":"numeric","placeholder":_vm.trans.card.placeholder},on:{"focus":function($event){_vm.flipped = false}}})]),_c('svg',{staticClass:"ccicon",attrs:{"width":"750","height":"471","viewBox":"0 0 750 471","version":"1.1","xmlns":"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"}},[_c(_vm.cardIcon,{tag:"component"})],1)]),_c('div',{staticClass:"field-group"},[_c('div',{staticClass:"field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"expirationdate"}},[_vm._v(_vm._s(_vm.trans.expiration.label)+" (mm/"+_vm._s(_vm.isTwoDigitsYear ? 'yy' : 'yyyy')+")")]),_c('div',{staticClass:"vs-con-input"},[_c('input',{directives:[{name:"validate",rawName:"v-validate",value:('required'),expression:"'required'"}],ref:"expiration",staticClass:"vs-inputx vs-input--input normal",attrs:{"type":"text","name":"expiration_date","id":"expirationdate","pattern":"[0-9\\/]*","placeholder":_vm.isTwoDigitsYear ? 'MM/YY' : 'MM/YYYY',"inputmode":"numeric"},on:{"focus":function($event){_vm.flipped = false}}})])]),_c('div',{staticClass:"field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary"},[_c('label',{staticClass:"vs-input--label",attrs:{"for":"securitycode"}},[_vm._v(_vm._s(_vm.trans.security.label))]),_c('div',{staticClass:"vs-con-input"},[_c('input',{directives:[{name:"validate",rawName:"v-validate",value:('required'),expression:"'required'"}],ref:"security",staticClass:"vs-inputx vs-input--input normal",attrs:{"type":"text","name":"security_code","id":"securitycode","pattern":"[0-9]*","placeholder":_vm.trans.security.placeholder,"inputmode":"numeric"},on:{"focus":function($event){_vm.flipped = true}}})])])])])])])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/CreditCard.vue?vue&type=template&id=46dc1e49&
+// CONCATENATED MODULE: ./src/CreditCard.vue?vue&type=template&id=8101a452&
 
 // EXTERNAL MODULE: ./node_modules/imask/dist/imask.js
 var imask = __webpack_require__("09c6");
@@ -4441,130 +4441,143 @@ var imask_default = /*#__PURE__*/__webpack_require__.n(imask);
 
 // CONCATENATED MODULE: ./src/cardTypes.js
 /* harmony default export */ var cardTypes = ({
-  'american express': {
-    name: 'Amex',
-    color: 'green'
-  },
-  visa: {
-    name: 'Visa',
-    color: 'lime'
-  },
-  diners: {
-    name: 'Diners',
-    color: 'orange'
-  },
-  discover: {
-    name: 'Discover',
-    color: 'purple'
-  },
-  jcb: {
-    name: 'Jcb',
-    color: 'red'
-  },
-  jcb15: {
-    name: 'Jcb',
-    color: 'red'
-  },
-  maestro: {
-    name: 'Maestro',
-    color: 'yellow'
-  },
-  mastercard: {
-    name: 'Mastercard',
-    color: 'lightblue'
-  },
-  unionpay: {
-    name: 'Unipay',
-    color: 'cyan'
-  }
+    'american express': {
+        name: 'Amex',
+        color: 'green'
+    },
+    visa: {
+        name: 'Visa',
+        color: 'lime'
+    },
+    diners: {
+        name: 'Diners',
+        color: 'orange'
+    },
+    discover: {
+        name: 'Discover',
+        color: 'purple'
+    },
+    jcb: {
+        name: 'Jcb',
+        color: 'red'
+    },
+    jcb15: {
+        name: 'Jcb',
+        color: 'red'
+    },
+    maestro: {
+        name: 'Maestro',
+        color: 'yellow'
+    },
+    mastercard: {
+        name: 'Mastercard',
+        color: 'lightblue'
+    },
+    unionpay: {
+        name: 'Unipay',
+        color: 'cyan'
+    }
 });
+
 // CONCATENATED MODULE: ./src/masks.js
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; var ownKeys = Object.keys(source); if (typeof Object.getOwnPropertySymbols === 'function') { ownKeys = ownKeys.concat(Object.getOwnPropertySymbols(source).filter(function (sym) { return Object.getOwnPropertyDescriptor(source, sym).enumerable; })); } ownKeys.forEach(function (key) { _defineProperty(target, key, source[key]); }); } return target; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
 
-var cardMasks = {
-  mask: [{
-    mask: '0000 000000 00000',
-    regex: '^3[47]\\d{0,13}',
-    cardtype: 'american express'
-  }, {
-    mask: '0000 0000 0000 0000',
-    regex: '^(?:6011|65\\d{0,2}|64[4-9]\\d?)\\d{0,12}',
-    cardtype: 'discover'
-  }, {
-    mask: '0000 000000 0000',
-    regex: '^3(?:0([0-5]|9)|[689]\\d?)\\d{0,11}',
-    cardtype: 'diners'
-  }, {
-    mask: '0000 0000 0000 0000',
-    regex: '^(5[1-5]\\d{0,2}|22[2-9]\\d{0,1}|2[3-7]\\d{0,2})\\d{0,12}',
-    cardtype: 'mastercard'
-  }, {
-    mask: '0000 000000 00000',
-    regex: '^(?:2131|1800)\\d{0,11}',
-    cardtype: 'jcb15'
-  }, {
-    mask: '0000 0000 0000 0000',
-    regex: '^(?:35\\d{0,2})\\d{0,12}',
-    cardtype: 'jcb'
-  }, {
-    mask: '0000 0000 0000 0000',
-    regex: '^(?:5[0678]\\d{0,2}|6304|67\\d{0,2})\\d{0,12}',
-    cardtype: 'maestro'
-  }, {
-    mask: '0000 0000 0000 0000',
-    regex: '^4\\d{0,15}',
-    cardtype: 'visa'
-  }, {
-    mask: '0000 0000 0000 0000',
-    regex: '^62\\d{0,14}',
-    cardtype: 'unionpay'
-  }, {
-    mask: '0000 0000 0000 0000',
-    cardtype: 'Unknown'
-  }],
-  dispatch: function dispatch(appended, dynamicMasked) {
-    var number = (dynamicMasked.value + appended).replace(/\D/g, '');
+const cardMasks = {
+    mask: [
+        {
+            mask: '0000 000000 00000',
+            regex: '^3[47]\\d{0,13}',
+            cardtype: 'american express'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            regex: '^(?:6011|65\\d{0,2}|64[4-9]\\d?)\\d{0,12}',
+            cardtype: 'discover'
+        },
+        {
+            mask: '0000 000000 0000',
+            regex: '^3(?:0([0-5]|9)|[689]\\d?)\\d{0,11}',
+            cardtype: 'diners'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            regex: '^(5[1-5]\\d{0,2}|22[2-9]\\d{0,1}|2[3-7]\\d{0,2})\\d{0,12}',
+            cardtype: 'mastercard'
+        },
+        {
+            mask: '0000 000000 00000',
+            regex: '^(?:2131|1800)\\d{0,11}',
+            cardtype: 'jcb15'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            regex: '^(?:35\\d{0,2})\\d{0,12}',
+            cardtype: 'jcb'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            regex: '^(?:5[0678]\\d{0,2}|6304|67\\d{0,2})\\d{0,12}',
+            cardtype: 'maestro'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            regex: '^4\\d{0,15}',
+            cardtype: 'visa'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            regex: '^62\\d{0,14}',
+            cardtype: 'unionpay'
+        },
+        {
+            mask: '0000 0000 0000 0000',
+            cardtype: 'Unknown'
+        }
+    ],
+    dispatch(appended, dynamicMasked) {
+        const number = (dynamicMasked.value + appended).replace(/\D/g, '');
 
-    for (var i = 0; i < dynamicMasked.compiledMasks.length; i++) {
-      var re = new RegExp(dynamicMasked.compiledMasks[i].regex);
-
-      if (number.match(re) != null) {
-        return dynamicMasked.compiledMasks[i];
-      }
+        for (let i = 0; i < dynamicMasked.compiledMasks.length; i++) {
+            const re = new RegExp(dynamicMasked.compiledMasks[i].regex);
+            if (number.match(re) != null) {
+                return dynamicMasked.compiledMasks[i];
+            }
+        }
     }
-  }
 };
-var masks_expirationMask = function expirationMask(isTwoDigitsYear) {
-  var year = isTwoDigitsYear ? {
-    YY: {
-      mask: imask_default.a.MaskedRange,
-      from: 0,
-      to: 99
-    }
-  } : {
-    YYYY: {
-      mask: imask_default.a.MaskedRange,
-      from: 2019,
-      to: 2100
-    }
-  };
-  return {
-    mask: isTwoDigitsYear ? 'MM{/}YY' : 'MM{/}YYYY',
-    blocks: _objectSpread({
-      MM: {
-        mask: imask_default.a.MaskedRange,
-        from: 1,
-        to: 12
-      }
-    }, year)
-  };
+
+const expirationMask = (isTwoDigitsYear) => {
+    const year = isTwoDigitsYear ? {
+        YY: {
+            mask: imask_default.a.MaskedRange,
+            from: 0,
+            to: 99
+        }
+    } : {
+        YYYY: {
+            mask: imask_default.a.MaskedRange,
+            from: 2019,
+            to: 2100
+        }
+    };
+
+    return {
+        mask: isTwoDigitsYear ? 'MM{/}YY' : 'MM{/}YYYY',
+        blocks: {
+            MM: {
+                mask: imask_default.a.MaskedRange,
+                from: 1,
+                to: 12
+            },
+            ...year
+        }
+    };
 };
-var securityMask = {
-  mask: '0000'
+
+const securityMask = {
+    mask: '0000',
 };
+
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6a83156a-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/cards/Front.vue?vue&type=template&id=ae0d5c60&
 var Frontvue_type_template_id_ae0d5c60_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"front"},[_vm._t("card-icon"),_c('svg',{staticStyle:{"enable-background":"new 0 0 750 471"},attrs:{"version":"1.1","id":"cardfront","xmlns":"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink","x":"0px","y":"0px","viewBox":"0 0 750 471","xml:space":"preserve"}},[_c('g',{attrs:{"id":"Front"}},[_c('g',{attrs:{"id":"CardBackground"}},[_c('g',{attrs:{"id":"Page-1_1_"}},[_c('g',{attrs:{"id":"amex_1_"}},[_c('path',{staticClass:"lightcolor",class:_vm.color,attrs:{"id":"Rectangle-1_1_","d":"M40,0h670c22.1,0,40,17.9,40,40v391c0,22.1-17.9,40-40,40H40c-22.1,0-40-17.9-40-40V40C0,17.9,17.9,0,40,0z"}})])]),_c('path',{staticClass:"darkcolor",class:(_vm.color + "dark"),attrs:{"d":"M750,431V193.2c-217.6-57.5-556.4-13.5-750,24.9V431c0,22.1,17.9,40,40,40h670C732.1,471,750,453.1,750,431z"}})]),_c('text',{staticClass:"st2 st3 st4",attrs:{"transform":"matrix(1 0 0 1 60.106 295.0121)","id":"svgnumber"}},[_vm._v(_vm._s(_vm.cardNumber || '0123 4567 8910 1112'))]),_c('text',{staticClass:"st2 st5 st6",attrs:{"transform":"matrix(1 0 0 1 54.1064 428.1723)","id":"svgname"}},[_vm._v(_vm._s(_vm.name || 'John Doe'))]),_c('text',{staticClass:"st7 st5 st8",attrs:{"transform":"matrix(1 0 0 1 54.1074 389.8793)"}},[_vm._v("cardholder name")]),_c('text',{staticClass:"st7 st5 st8",attrs:{"transform":"matrix(1 0 0 1 479.7754 388.8793)"}},[_vm._v("expiration")]),_c('text',{staticClass:"st7 st5 st8",attrs:{"transform":"matrix(1 0 0 1 65.1054 241.5)"}},[_vm._v("card number")]),_c('g',[_c('text',{staticClass:"st2 st5 st9",attrs:{"transform":"matrix(1 0 0 1 574.4219 433.8095)","id":"svgexpire"}},[_vm._v(_vm._s(_vm.expiration || _vm.expirationPlaceholder))]),_c('text',{staticClass:"st2 st10 st11",attrs:{"transform":"matrix(1 0 0 1 479.3848 417.0097)"}},[_vm._v("VALID")]),_c('text',{staticClass:"st2 st10 st11",attrs:{"transform":"matrix(1 0 0 1 479.3848 435.6762)"}},[_vm._v("THRU")]),_c('polygon',{staticClass:"st2",attrs:{"points":"554.5,421 540.4,414.2 540.4,427.9"}})]),_c('g',{attrs:{"id":"cchip"}},[_c('g',[_c('path',{staticClass:"st2",attrs:{"d":"M168.1,143.6H82.9c-10.2,0-18.5-8.3-18.5-18.5V74.9c0-10.2,8.3-18.5,18.5-18.5h85.3c10.2,0,18.5,8.3,18.5,18.5v50.2C186.6,135.3,178.3,143.6,168.1,143.6z"}})]),_c('g',[_c('g',[_c('rect',{staticClass:"st12",attrs:{"x":"82","y":"70","width":"1.5","height":"60"}})]),_c('g',[_c('rect',{staticClass:"st12",attrs:{"x":"167.4","y":"70","width":"1.5","height":"60"}})]),_c('g',[_c('path',{staticClass:"st12",attrs:{"d":"M125.5,130.8c-10.2,0-18.5-8.3-18.5-18.5c0-4.6,1.7-8.9,4.7-12.3c-3-3.4-4.7-7.7-4.7-12.3c0-10.2,8.3-18.5,18.5-18.5s18.5,8.3,18.5,18.5c0,4.6-1.7,8.9-4.7,12.3c3,3.4,4.7,7.7,4.7,12.3C143.9,122.5,135.7,130.8,125.5,130.8z M125.5,70.8c-9.3,0-16.9,7.6-16.9,16.9c0,4.4,1.7,8.6,4.8,11.8l0.5,0.5l-0.5,0.5c-3.1,3.2-4.8,7.4-4.8,11.8c0,9.3,7.6,16.9,16.9,16.9s16.9-7.6,16.9-16.9c0-4.4-1.7-8.6-4.8-11.8l-0.5-0.5l0.5-0.5c3.1-3.2,4.8-7.4,4.8-11.8C142.4,78.4,134.8,70.8,125.5,70.8z"}})]),_c('g',[_c('rect',{staticClass:"st12",attrs:{"x":"82.8","y":"82.1","width":"25.8","height":"1.5"}})]),_c('g',[_c('rect',{staticClass:"st12",attrs:{"x":"82.8","y":"117.9","width":"26.1","height":"1.5"}})]),_c('g',[_c('rect',{staticClass:"st12",attrs:{"x":"142.4","y":"82.1","width":"25.8","height":"1.5"}})]),_c('g',[_c('rect',{staticClass:"st12",attrs:{"x":"142","y":"117.9","width":"26.2","height":"1.5"}})])])])]),_c('g',{attrs:{"id":"Back"}})])],2)}
 var Frontvue_type_template_id_ae0d5c60_staticRenderFns = []
@@ -4572,7 +4585,7 @@ var Frontvue_type_template_id_ae0d5c60_staticRenderFns = []
 
 // CONCATENATED MODULE: ./src/components/cards/Front.vue?vue&type=template&id=ae0d5c60&
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/cards/Front.vue?vue&type=script&lang=js&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/cards/Front.vue?vue&type=script&lang=js&
 //
 //
 //
@@ -4633,35 +4646,37 @@ var Frontvue_type_template_id_ae0d5c60_staticRenderFns = []
 //
 //
 //
+
 /* harmony default export */ var Frontvue_type_script_lang_js_ = ({
-  props: {
-    cardNumber: {
-      type: String,
-      required: true
+    props: {
+        cardNumber: {
+            type: String,
+            required: true
+        },
+        name: {
+            type: String,
+            default: 'JOHN DOE'
+        },
+        expiration: {
+            type: String,
+            default: '01/23'
+        },
+        color: {
+            type: String,
+            default: 'grey'
+        },
+        isTwoDigitsYear: {
+            type: Boolean,
+            default: true
+        }
     },
-    name: {
-      type: String,
-      default: 'JOHN DOE'
-    },
-    expiration: {
-      type: String,
-      default: '01/23'
-    },
-    color: {
-      type: String,
-      default: 'grey'
-    },
-    isTwoDigitsYear: {
-      type: Boolean,
-      default: true
+    computed: {
+        expirationPlaceholder() {
+            return this.isTwoDigitsYear ? '01/23' : '01/2023';
+        }
     }
-  },
-  computed: {
-    expirationPlaceholder: function expirationPlaceholder() {
-      return this.isTwoDigitsYear ? '01/23' : '01/2023';
-    }
-  }
 });
+
 // CONCATENATED MODULE: ./src/components/cards/Front.vue?vue&type=script&lang=js&
  /* harmony default export */ var cards_Frontvue_type_script_lang_js_ = (Frontvue_type_script_lang_js_); 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
@@ -4786,7 +4801,7 @@ var Backvue_type_template_id_61dc67dc_staticRenderFns = []
 
 // CONCATENATED MODULE: ./src/components/cards/Back.vue?vue&type=template&id=61dc67dc&
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/cards/Back.vue?vue&type=script&lang=js&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/cards/Back.vue?vue&type=script&lang=js&
 //
 //
 //
@@ -4819,22 +4834,24 @@ var Backvue_type_template_id_61dc67dc_staticRenderFns = []
 //
 //
 //
+
 /* harmony default export */ var Backvue_type_script_lang_js_ = ({
-  props: {
-    nameBack: {
-      type: String,
-      default: 'John Doe'
-    },
-    security: {
-      type: String,
-      default: '985'
-    },
-    color: {
-      type: String,
-      default: 'greydark'
+    props: {
+        nameBack: {
+            type: String,
+            default: 'John Doe'
+        },
+        security: {
+            type: String,
+            default: '985'
+        },
+        color: {
+            type: String,
+            default: 'greydark'
+        }
     }
-  }
 });
+
 // CONCATENATED MODULE: ./src/components/cards/Back.vue?vue&type=script&lang=js&
  /* harmony default export */ var cards_Backvue_type_script_lang_js_ = (Backvue_type_script_lang_js_); 
 // CONCATENATED MODULE: ./src/components/cards/Back.vue
@@ -4858,6 +4875,8 @@ var Back_component = normalizeComponent(
 
 /* harmony default export */ var Back = (Back_component.exports);
 // CONCATENATED MODULE: ./src/components/cards/index.js
+
+
 
 
 
@@ -5070,6 +5089,9 @@ var Visa_component = normalizeComponent(
 
 /* harmony default export */ var Visa = (Visa_component.exports);
 // CONCATENATED MODULE: ./src/components/icons/index.js
+
+
+
 
 
 
@@ -5297,7 +5319,10 @@ var singles_Visa_component = normalizeComponent(
 
 
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/CreditCard.vue?vue&type=script&lang=js&
+
+
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/CreditCard.vue?vue&type=script&lang=js&
 //
 //
 //
@@ -5385,146 +5410,148 @@ var singles_Visa_component = normalizeComponent(
 
 
 
-var formDefaults = {
-  name: '',
-  cardNumber: '',
-  expiration: '',
-  security: ''
+
+
+const formDefaults = {
+    name: '',
+    cardNumber: '',
+    expiration: '',
+    security: ''
 };
-var masksDefaults = {
-  cardNumberMask: null,
-  expirationDateMask: null,
-  securityCodeMask: null
-};
-var defaultColor = 'grey';
-var defaultTranslations = {
-  name: {
-    label: 'Name',
-    placeholder: 'Full Name'
-  },
-  card: {
-    label: 'Card Number',
-    placeholder: 'Card Number'
-  },
-  expiration: {
-    label: 'Expiration'
-  },
-  security: {
-    label: 'Security Code',
-    placeholder: 'Code'
-  } // Source reference: https://codepen.io/quinlo/pen/YONMEa
 
+const masksDefaults = {
+    cardNumberMask: null,
+    expirationDateMask: null,
+    securityCodeMask: null
 };
+
+const defaultColor = 'grey';
+
+const defaultTranslations = {
+    name: {
+        label: 'Name',
+        placeholder: 'Full Name'
+    },
+    card: {
+        label: 'Card Number',
+        placeholder: 'Card Number'
+    },
+    expiration: {
+        label: 'Expiration'
+    },
+    security: {
+        label: 'Security Code',
+        placeholder: 'Code'
+    }
+}
+
+// Source reference: https://codepen.io/quinlo/pen/YONMEa
 /* harmony default export */ var CreditCardvue_type_script_lang_js_ = ({
-  props: {
-    trans: {
-      type: Object,
-      default: function _default() {
-        return defaultTranslations;
-      }
-    },
-    direction: {
-      type: String,
-      default: 'column',
-      validator: function validator(value) {
-        return ['row', 'column'].includes(value);
-      }
-    },
-    className: {
-      type: String,
-      default: ''
-    },
-    noCard: {
-      type: Boolean,
-      default: false
-    },
-    yearDigits: {
-      type: Number,
-      default: 2,
-      validator: function validator(value) {
-        return [2, 4].includes(value);
-      }
-    }
-  },
-  mounted: function mounted() {
-    this.defineMasks();
-    this.setMasksListeners();
-  },
-  data: function data() {
-    return {
-      flipped: false,
-      cardIcon: null,
-      cardInnerIcon: null,
-      color: 'grey',
-      masks: masksDefaults,
-      form: formDefaults
-    };
-  },
-  methods: {
-    defineMasks: function defineMasks() {
-      //Mask the Credit Card Number Input
-      this.cardNumberMask = new imask_default.a(this.$refs.cardNumber, cardMasks); //Mask the Expiration Date
-
-      this.expirationDateMask = new imask_default.a(this.$refs.expiration, masks_expirationMask(this.isTwoDigitsYear)); //Mask the security code
-
-      this.securityCodeMask = new imask_default.a(this.$refs.security, securityMask);
-    },
-    setMasksListeners: function setMasksListeners() {
-      var _this = this;
-
-      // Update expiration date field
-      this.expirationDateMask.on('accept', function () {
-        return _this.form.expiration = _this.expirationDateMask.value;
-      }); // Update security code field
-
-      this.securityCodeMask.on('accept', function () {
-        return _this.form.security = _this.securityCodeMask.value;
-      }); // Update card number field and card icon
-
-      this.cardNumberMask.on('accept', function () {
-        var cardName = _this.cardNumberMask.masked.currentMask.cardtype;
-        _this.form.cardNumber = _this.cardNumberMask.value;
-
-        if (cardTypes.hasOwnProperty(cardName)) {
-          var card = cardTypes[cardName];
-          _this.cardIcon = icons_namespaceObject[card.name];
-          _this.cardInnerIcon = singles_namespaceObject[card.name];
-
-          _this.setColor(card.color);
-
-          return;
+    props: {
+        trans: {
+            type: Object,
+            default: () => (defaultTranslations)
+        },
+        direction: {
+            type: String,
+            default: 'column',
+            validator(value) {
+                return ['row', 'column'].includes(value)
+            }
+        },
+        className: {
+            type: String,
+            default: ''
+        },
+        noCard: {
+            type: Boolean,
+            default: false
+        },
+        yearDigits: {
+            type: Number,
+            default: 2,
+            validator(value) {
+                return [2, 4].includes(value)
+            }
         }
+    },
+    mounted() {
+        this.defineMasks();
+        this.setMasksListeners();
+    },
+    data() {
+        return {
+            flipped: false,
+            cardIcon: null,
+            cardInnerIcon: null,
+            color: 'grey',
+            masks: masksDefaults,
+            form: formDefaults
+        };
+    },
+    methods: {
+        defineMasks() {
+            //Mask the Credit Card Number Input
+            this.cardNumberMask = new imask_default.a(this.$refs.cardNumber, cardMasks);
 
-        _this.resetCardDefaults();
-      });
+            //Mask the Expiration Date
+            this.expirationDateMask = new imask_default.a(this.$refs.expiration, expirationMask(this.isTwoDigitsYear));
+
+            //Mask the security code
+            this.securityCodeMask = new imask_default.a(this.$refs.security, securityMask);
+        },
+        setMasksListeners() {
+            // Update expiration date field
+            this.expirationDateMask.on('accept', () => this.form.expiration = this.expirationDateMask.value);
+
+            // Update security code field
+            this.securityCodeMask.on('accept', () => this.form.security = this.securityCodeMask.value);
+
+            // Update card number field and card icon
+            this.cardNumberMask.on('accept', () => {
+                const cardName = this.cardNumberMask.masked.currentMask.cardtype;
+                this.form.cardNumber = this.cardNumberMask.value;
+
+                if (cardTypes.hasOwnProperty(cardName)) {
+                    const card = cardTypes[cardName];
+
+                    this.cardIcon = icons_namespaceObject[card.name];
+                    this.cardInnerIcon = singles_namespaceObject[card.name];
+                    this.setColor(card.color);
+                    return;
+                }
+
+                this.resetCardDefaults();
+            });
+        },
+        resetCardDefaults() {
+            this.cardIcon = null;
+            this.cardInnerIcon = null;
+            this.setColor();
+        },
+        setColor(colorName) {
+            this.color = colorName || defaultColor;
+        }
     },
-    resetCardDefaults: function resetCardDefaults() {
-      this.cardIcon = null;
-      this.cardInnerIcon = null;
-      this.setColor();
+    computed: {
+        isTwoDigitsYear() {
+            return this.yearDigits === 2;
+        },
+        fields() {
+            return [this.form.name, this.form.cardNumber, this.form.expiration, this.form.security].join('');
+        }
     },
-    setColor: function setColor(colorName) {
-      this.color = colorName || defaultColor;
-    }
-  },
-  computed: {
-    isTwoDigitsYear: function isTwoDigitsYear() {
-      return this.yearDigits === 2;
+    watch: {
+        fields() {
+            this.$emit('change', Object.assign({}, this.$data.form));
+        }
     },
-    fields: function fields() {
-      return [this.form.name, this.form.cardNumber, this.form.expiration, this.form.security].join('');
+    components: {
+        Front: Front,
+        Back: Back
     }
-  },
-  watch: {
-    fields: function fields() {
-      this.$emit('change', Object.assign({}, this.$data.form));
-    }
-  },
-  components: {
-    Front: Front,
-    Back: Back
-  }
 });
+
 // CONCATENATED MODULE: ./src/CreditCard.vue?vue&type=script&lang=js&
  /* harmony default export */ var src_CreditCardvue_type_script_lang_js_ = (CreditCardvue_type_script_lang_js_); 
 // EXTERNAL MODULE: ./src/CreditCard.vue?vue&type=style&index=0&lang=scss&
