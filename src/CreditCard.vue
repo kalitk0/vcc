@@ -210,7 +210,11 @@ export default {
         },
         setColor(colorName) {
             this.color = colorName || defaultColor;
-        }
+        },
+        formUpdated: function(newV, oldV) {
+    		console.log('the form object updated')
+    		this.$emit('change', Object.assign({}, this.$data.form));
+    	}
     },
     computed: {
         isTwoDigitsYear() {
@@ -220,6 +224,11 @@ export default {
             return [this.form.name, this.form.cardNumber, this.form.expiration, this.form.security].join('');
         }
     },
+    created: function () {
+  		this.$watch('form', this.formUpdated, {
+      		deep: true
+    	})
+  	},
     watch: {
         fields() {
         	console.log(this.$data.form);
