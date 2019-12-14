@@ -222,6 +222,7 @@ export default {
     },
     watch: {
         fields() {
+        	console.log(this.$data.form);
             this.$emit('change', Object.assign({}, this.$data.form));
         }
     },
