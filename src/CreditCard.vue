@@ -42,7 +42,7 @@
                         inputmode="numeric"
                         :placeholder="trans.card.placeholder"
                         @focus="flipped = false">
-                        <span class="text-danger text-sm" v-show="errors.has('card-number')">{{ errors.first('card-number') }}</span>
+                        <span class="text-danger text-sm" v-show="errors.has('card_number')">{{ errors.first('card_number') }}</span>
                     </div>
                     <svg class="ccicon" width="750" height="471" viewBox="0 0 750 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <component :is="cardIcon"/>
