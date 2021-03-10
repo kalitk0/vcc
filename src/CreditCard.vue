@@ -28,7 +28,7 @@
                         :placeholder="trans.name.placeholder"
                         v-model="form.name"
                         @focus="flipped = false">
-                        <span class="text-danger text-sm" v-show="errors.has('name')">{{ errors.first('name') }}</span>
+                        
                     </div>
                 </div>
                 <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
@@ -42,7 +42,7 @@
                         inputmode="numeric"
                         :placeholder="trans.card.placeholder"
                         @focus="flipped = false">
-                        <span class="text-danger text-sm" v-show="errors.has('card_number')">{{ errors.first('card_number') }}</span>
+                        
                     </div>
                     <svg class="ccicon" width="750" height="471" viewBox="0 0 750 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <component :is="cardIcon"/>
@@ -60,7 +60,7 @@
                             :placeholder="isTwoDigitsYear ? 'MM/YY' : 'MM/YYYY'"
                             inputmode="numeric"
                             @focus="flipped = false">
-                            <span class="text-danger text-sm" v-show="errors.has('expiration_date')">{{ errors.first('expiration_date') }}</span>
+                           
                         </div>
                     </div>
                     <div class="field vs-component vs-con-input-label vs-input mt-5 w-full vs-input-primary">
@@ -74,7 +74,7 @@
                             :placeholder="trans.security.placeholder"
                             inputmode="numeric"
                             @focus="flipped = true">
-                            <span class="text-danger text-sm" v-show="errors.has('security_code')">{{ errors.first('security_code') }}</span>
+                          
                         </div>
                     </div>
                 </div>
